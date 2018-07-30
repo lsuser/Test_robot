@@ -21,6 +21,12 @@ class Verify_text_On_page(object):
              It's some method for Verify_Ad_Delivery_Status
          """
         pass
+    
+    def E2E_Verify_fail_Status(self):
+        """
+             It's some  fail method
+         """
+        fail
 
 
 
