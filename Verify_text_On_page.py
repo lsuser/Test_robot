@@ -22,7 +22,6 @@ class Verify_text_On_page(object):
          """
         pass
 
-    def E2E_Wait_For_Ad_Delivery_Status(self):
-        fail
+
 
 
